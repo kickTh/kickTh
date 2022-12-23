@@ -1,4 +1,4 @@
-<h1 align="center">Hey</h1>
+<h1 align="center">Profile kickTh</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x2swiftz&label=Profile%20views&color=0e75b6&style=flat" alt="kickTh" /> </p>
 
